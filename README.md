@@ -20,7 +20,7 @@ Design ist für mich mehr als nur Ästhetik – es ist strategische Kommunikatio
 
 ## 🌐 Website & Kontakt
 
-➡️ Besuche meine Website: https://www.wolfgang-mair.studio/
+➡️ Besuche meine Website: [wolfgang-mair.studio](https://www.wolfgang-mair.studio/)
 📧 E-Mail: office@wolfgang-mair.studio
 📍 Standort: Wien 1180, Österreich
 
